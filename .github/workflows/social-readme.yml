@@ -13,5 +13,5 @@ jobs:
       - name: Social Readme
         uses: Conquers/social-readme@master
         with:
-          blog_rss_link: https://conquers.github.io/
+          blog_rss_link: https://conquers.github.io/atom.xml
           blog_limit: 10
