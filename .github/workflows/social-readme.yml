@@ -1,0 +1,17 @@
+name: Social Readme
+
+on:
+  watch:
+    types: started
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Social Readme
+        uses: Conquers/social-readme@master
+        with:
+          blog_rss_link: https://conquers.github.io/
+          blog_limit: 10
