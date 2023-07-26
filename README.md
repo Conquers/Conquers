@@ -48,8 +48,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Conquers&theme=minimal&&hide_border=true" width="100%"/>
 
-## 📺Social
-
 ### 📝<a href="https://Conquers.github.io/" target="_blank">**Latest Blog Posts**</a>
 
 <!-- BLOG-POST-LIST:START -->
