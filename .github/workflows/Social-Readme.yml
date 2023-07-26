@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: Conquers/Conquers@master
+      - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://conquers.github.io/atom.xml
           blog_limit: 10
