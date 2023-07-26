@@ -59,9 +59,9 @@
 
 ### 📝<a href="https://Conquers.github.io/" target="_blank">Recent Blog</a>
 
-<!-- START_SECTION:blog -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- END_SECTION:blog -->
+<!-- BLOG-POST-LIST:END -->
 </td>
         </tr>
 </tbody>
