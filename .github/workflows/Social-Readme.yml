@@ -1,0 +1,18 @@
+name: Social Readme
+
+on:
+  schedule:
+    - cron: '0/2 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Conquers/Conquers@master
+        with:
+          blog_rss_link: https://conquers.github.io/atom.xml
+          blog_limit: 10
