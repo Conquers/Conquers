@@ -51,9 +51,9 @@
 ### 📝<a href="https://Conquers.github.io/" target="_blank">**Latest Blog Posts**</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [垃圾收集器](http://conquers.github.io/posts/6158ee9c.html)
 - [Volatile](http://conquers.github.io/posts/73afee0.html)
 - [Java 代理模式详解](http://conquers.github.io/posts/55890944.html)
 - [Es功能实现案例](http://conquers.github.io/posts/98542065.html)
 - [MySQL OverView](http://conquers.github.io/posts/359ea42e.html)
-- [Maven](http://conquers.github.io/posts/7273cdc.html)
 <!-- BLOG-POST-LIST:END -->
