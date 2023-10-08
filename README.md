@@ -51,9 +51,9 @@
 ### 📝<a href="https://Conquers.github.io/" target="_blank">**Latest Blog Posts**</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring 为何需要三级缓存解决循环依赖，而不是二级缓存](http://conquers.github.io/posts/95a885e4.html)
+- [Spring Bean的生命周期](http://conquers.github.io/posts/89080a8e.html)
 - [垃圾收集器](http://conquers.github.io/posts/6158ee9c.html)
 - [Volatile](http://conquers.github.io/posts/73afee0.html)
 - [Java 代理模式详解](http://conquers.github.io/posts/55890944.html)
-- [Es功能实现案例](http://conquers.github.io/posts/98542065.html)
-- [MySQL OverView](http://conquers.github.io/posts/359ea42e.html)
 <!-- BLOG-POST-LIST:END -->
