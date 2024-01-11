@@ -51,9 +51,9 @@
 ### 📝<a href="https://Conquers.github.io/" target="_blank">**Latest Blog Posts**</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Latex 帮助手册](http://conquers.github.io/posts/a7415b86.html)
 - [Queue 中 offer&lpar;&rpar; 和 add&lpar;&rpar; 的区别](http://conquers.github.io/posts/b568ceb4.html)
 - [Springboot 为什么编写了配置文件就可以使用](http://conquers.github.io/posts/e25bd392.html)
 - [Spring 为何需要三级缓存解决循环依赖，而不是二级缓存](http://conquers.github.io/posts/95a885e4.html)
 - [Spring Bean的生命周期](http://conquers.github.io/posts/89080a8e.html)
-- [垃圾收集器](http://conquers.github.io/posts/6158ee9c.html)
 <!-- BLOG-POST-LIST:END -->
