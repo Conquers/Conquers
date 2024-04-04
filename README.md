@@ -51,9 +51,9 @@
 ### 📝<a href="https://Conquers.github.io/" target="_blank">**Latest Blog Posts**</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions将Hexo博客自动部署到GitHub Pages](http://conquers.github.io/posts/1d241ca1.html)
-- [OpenAI translator——本地大模型的应用之一](http://conquers.github.io/posts/68807ab0.html)
-- [本地部署 Gemma 大模型](http://conquers.github.io/posts/84dba9cd.html)
-- [Latex 帮助手册](http://conquers.github.io/posts/a7415b86.html)
-- [Queue 中 offer&lpar;&rpar; 和 add&lpar;&rpar; 的区别](http://conquers.github.io/posts/b568ceb4.html)
+- [GitHub Actions将Hexo博客自动部署到GitHub Pages](http://wangtao.site/posts/1d241ca1.html)
+- [OpenAI translator——本地大模型的应用之一](http://wangtao.site/posts/68807ab0.html)
+- [本地部署 Gemma 大模型](http://wangtao.site/posts/84dba9cd.html)
+- [Latex 帮助手册](http://wangtao.site/posts/a7415b86.html)
+- [Queue 中 offer&lpar;&rpar; 和 add&lpar;&rpar; 的区别](http://wangtao.site/posts/b568ceb4.html)
 <!-- BLOG-POST-LIST:END -->
